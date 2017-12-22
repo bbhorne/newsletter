@@ -8,3 +8,6 @@ Welcome to the seventh newsletter from **Security Without Borders**. This is a s
 
 - https://sec.eff.org/articles/devices-systems
 - https://netalert.me/encrypted-messaging.html
+## Tools
+
+Freedom of the Press Foundation has released an exciting new tool: Haven. The app can be installed on a spare Android phone & uses a smartphone's many sensors — including its microphone, motion detectors, light detectors, and cameras — to monitor a room for any changes. The app then communicates with a user's principal phone via Signal encrypted messaging. https://guardianproject.github.io/haven/
